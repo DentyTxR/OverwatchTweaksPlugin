@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlySenderToggleOverwatch", "OnlySenderToggleOverwatch\OnlySenderToggleOverwatch.csproj", "{EFBDD86A-C746-4649-AD81-B6B313F3A539}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverwatchTweaksPlugin", "OverwatchTweaksPlugin\OverwatchTweaksPlugin.csproj", "{EFBDD86A-C746-4649-AD81-B6B313F3A539}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
